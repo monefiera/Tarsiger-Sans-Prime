@@ -11,7 +11,7 @@
 Android 12.0～13.0のデバイスと互換性があります。
 
 # Download.
-[ここからダウンロード](https://github.com/D4rK7355608/GoogleProductSansFont/releases) してMagiskかKernelSUで導入しましょう。
+[ここからダウンロード](https://github.com/monefiera/Tarsiger−Sans−Prime/releases) してMagiskかKernelSUで導入しましょう。
 
 # Features:
 - システムフォントをTarsiger Sansにします。;
