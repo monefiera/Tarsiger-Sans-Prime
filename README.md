@@ -11,7 +11,7 @@
 Android 12.0～13.0のデバイスと互換性があります。
 
 # Download.
-[ここからダウンロード](https://github.com/monefiera/Tarsiger-Sans-Prime/archive/refs/heads/main.zip) してMagiskかKernelSUで導入しましょう。
+[ここからダウンロード](https://github.com/monefiera/Tarsiger-Sans-Prime/releases) してMagiskかKernelSUで導入しましょう。
 
 # Features:
 - システムフォントをTarsiger Sansにします。;
